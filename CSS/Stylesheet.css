@@ -1,7 +1,32 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My first web page</title>
-    <link rel="CSS" type="text/css" href=".css">
-</head>
+header,img{
+    background-color: rgb(69, 69, 193);
+    text-align: center;
+    padding: 4px;
+}
 
+img{
+    border-radius: 50%;
+    background-color: white;
+    
+}
+
+ul{
+    background-color: rgb(87, 65, 65)
+
+}
+
+h1,p{
+    color: white;
+}
+
+h2,h3{
+    color: rgb(77, 195, 234)
+}
+li,ul,a{
+    color: rgb(107, 201, 107)
+}
+
+
+p{
+    color: black;
+}
